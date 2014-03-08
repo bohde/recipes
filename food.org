@@ -1,0 +1,49 @@
+#+SEQ_TODO: TOCOOK(t) | COOKED(c)
+#+SEQ_TODO: TOBLOG | BLOGGED
+* Recipe
+** Vegan BBQ Sauce                                                :vegan:bbq:
+   :PROPERTIES:
+   :Rating:
+   :Sources:  http://cleangreensimple.com/2011/05/carolina-pulled-pork-sandwich/
+   :Amount:
+   :END:
+*** Ingredients
+    | 3 Tbsp  | tomato paste                |
+    | 1 tsp   | apple cider vinegar         |
+    | 1 tsp   | canola or other neutral oil |
+    | 1/2 tsp | tamarind paste              |
+    | 1/4 cup | water                       |
+    | 2 tsp   | maple syrup                 |
+*** Preparation
+    Mix together
+** Vegan BBQ Rub                                                  :vegan:bbq:
+   :PROPERTIES:
+   :Rating:
+   :Sources:  http://cleangreensimple.com/2011/05/carolina-pulled-pork-sandwich/
+   :Amount:
+   :END:
+*** Ingredients
+    | 1/4 tsp | red pepper flakes |
+    | 1 tsp   | paprika           |
+    | 1/2 tsp | cayenne pepper    |
+    | 1/2 tsp | ground mustard    |
+    | 1/2 tsp | black pepper      |
+    | pinch   | garlic powder     |
+    | pinch   | onion powder      |
+    | 1 tsp   | salt              |
+*** Preparation
+    Mix together
+** Vegan BBQ Brisket                                              :vegan:bbq:
+   :PROPERTIES:
+   :Rating:
+   :Sources:
+   :Amount:   4
+   :END:
+*** Ingredients
+    | 2 cups  | Vital Wheat Gluten |   |
+    | 1/2 cup | Nut. Yeast         |   |
+    | 1 cup   | Veg Broth          |   |
+    |         | Liquid Smoke       |   |
+    |         | Tamari             |   |
+    |         | Crisco             |   |
+*** Preparation
